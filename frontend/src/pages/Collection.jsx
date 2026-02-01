@@ -159,7 +159,7 @@ const Collection = () => {
               name={item.name}
               id={item._id}
               price={item.price}
-              image={item.image[0]}
+              image={item.image[index]}
             />
           ))}
         </div>
