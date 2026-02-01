@@ -3,10 +3,7 @@ import p_img2_1 from '../assets/p_img2_1.png';
 import p_img2_2 from '../assets/p_img2_2.png';
 import p_img2_3 from '../assets/p_img2_3.png';
 
-import p_img1 from './p_img1.png'
-import p_img2_1 from './p_img2_1.png'
-import p_img2_2 from './p_img2_2.png'
-import p_img2_3 from './p_img2_3.png'
+
 import p_img2_4 from './p_img2_4.png'
 import p_img3 from './p_img3.png'
 import p_img4 from './p_img4.png'
