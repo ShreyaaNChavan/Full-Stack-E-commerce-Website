@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { ShopContext } from '../context/ShopContext';
 import Title from '../components/Title';
 import ProductItems from '../components/ProductItems';
+import {assets} from '../assets/assets'
 
 const Collection = () => {
   const { products , search , showSearch } = useContext(ShopContext);
